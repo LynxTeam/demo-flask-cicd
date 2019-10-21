@@ -6,4 +6,4 @@ install:
   - make prepare
 # command to run tests
 script:
-  - make run
+  - make test

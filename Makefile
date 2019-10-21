@@ -5,5 +5,5 @@ prepare:
 	pipenv install
 
 #Une cible "test" qui test la quelité du projet
-run:
+test:
 	pipenv run pylint hf.py
