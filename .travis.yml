@@ -1,6 +1,6 @@
 language: python
 python:
-  - "2.7.16"
+  - "3.7"
 # command to install dependencies
 install:
   - make prepare
